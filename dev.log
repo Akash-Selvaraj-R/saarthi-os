@@ -1,0 +1,7 @@
+$ next dev
+▲ Next.js 16.3.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.56.1:3000
+✓ Ready in 711ms
+✓ Running next.config.mjs took 26ms
+
