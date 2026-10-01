@@ -10,6 +10,19 @@ Instead of simply answering questions, SAARTHI understands the user's intent, re
 
 ---
 
+## 🎥 Demo Video
+
+> **Watch the SAARTHI OS working demo:**
+> **[▶️ View Demo Video](https://drive.google.com/file/d/1L9R12hMI1uk1rVb1fQgQtuVeY2ocZrJa/view?usp=sharing)**
+
+The demo showcases SAARTHI's agentic workflow:
+
+**Understand → Reason → Plan → Use Tools → Act → Verify → Deliver**
+
+The video demonstrates how SAARTHI transforms a real-world problem into a structured, actionable workflow using AI agents and tools.
+
+---
+
 ## ⚡ What is SAARTHI?
 
 Most AI assistants stop at:
